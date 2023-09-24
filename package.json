@@ -4,11 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "start": "node src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hamza sahamzashah19@gmai.com",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
