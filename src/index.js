@@ -5,7 +5,6 @@ const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
 const authRoutes = require("./routes/authRoutes");
 const trackRoutes = require("./routes/trackRoutes");
-const requireRoutes = require("./middlewares/requireAuth");
 const requireAuth = require("./middlewares/requireAuth");
 const cors = require("cors");
 const app = express();
