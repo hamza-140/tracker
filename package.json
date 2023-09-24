@@ -4,7 +4,8 @@
   "description": "Tracker App",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "postinstall": "npm rebuild bcrypt"
   },
   "keywords": [],
   "author": "Hamza sahamzashah19@gmai.com",
