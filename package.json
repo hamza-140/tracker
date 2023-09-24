@@ -8,7 +8,7 @@
     "postinstall": "npm rebuild bcrypt"
   },
   "keywords": [],
-  "author": "Hamza sahamzashah19@gmai.com",
+  "author": "Hamza sahamzashah19@gmail.com",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
